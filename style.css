@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+
+}
+
+#dv1 {
+    color: rgb(175, 82, 82);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    height: 25px;
+    background-color: pink;
+}
+a {
+    margin-right: 180px;
+    text-decoration: none;
+}
+
+#a1 {
+    font-size: 20px;
+    color: rgb(26, 143, 8);
+}
+
+#bt1 {
+    background-color: yellowgreen;
+}
+#img {
+    height: 550px;
+   background-image: url('/sherpur.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+}
+#dv3{
+    width: 200px;
+    margin-top:  200px;
+    margin-left: 200px;
+    color: rgb(104, 8, 24);
+}
+b{
+    color: rgb(37, 5, 67);
+}
+p{
+    margin-left: 1180px;
+}
+#dv4{
+    height: 150px;
+    padding-top: 50px;
+    color: aqua;
+    background-color: black;
+    text-align: center;
+}
+#par{
+    width: 500px;
+    margin-left: 200px;
+   font-size: 20px;
+   color: wheat;
+    
+}
